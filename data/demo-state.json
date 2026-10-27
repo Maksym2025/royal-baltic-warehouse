@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "revision": 0,
+  "products": [
+    {
+      "id": "perch",
+      "sku": "RB-101",
+      "name": "Филе судака с кожей",
+      "detail": "Охлаждённое · 300–500 г",
+      "opening": 120000
+    },
+    {
+      "id": "hake",
+      "sku": "RB-202",
+      "name": "Хек HGT",
+      "detail": "Замороженный · 300–500 г",
+      "opening": 240000
+    },
+    {
+      "id": "pike",
+      "sku": "RB-303",
+      "name": "Щука целая",
+      "detail": "Замороженная · 1–2 кг",
+      "opening": 90000
+    }
+  ],
+  "receipts": [],
+  "orders": [
+    {
+      "id": "RB-001",
+      "client": "Brasserie Démo",
+      "productId": "hake",
+      "amount": 40000,
+      "status": "approved",
+      "paid": false,
+      "authorizedAt": null,
+      "authorizedBy": null
+    },
+    {
+      "id": "RB-002",
+      "client": "Bistro Exemple",
+      "productId": "perch",
+      "amount": 20000,
+      "status": "draft",
+      "paid": false,
+      "authorizedAt": null,
+      "authorizedBy": null
+    }
+  ],
+  "events": [
+    {
+      "id": "start",
+      "at": null,
+      "role": "system",
+      "title": "Начальные остатки и тестовые заказы",
+      "detail": "450 кг на складе · 40 кг в резерве под RB-001. Черновик RB-002 остатки не меняет."
+    }
+  ]
+}

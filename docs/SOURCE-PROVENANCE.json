@@ -1,0 +1,20 @@
+{
+  "source_branch": "feat/warehouse-ui-audit",
+  "source_commit": "110dd143a35bfb28f7c639db1ac9c54853750894",
+  "export_date": "2026-10-27",
+  "project": "royal-baltic-warehouse",
+  "storage_key": "royal-baltic-warehouse-v1",
+  "storage_schema_version": 1,
+  "browser_user_history_exported": false,
+  "files": {
+    "reference/original/index.html": "bce168590ad8f9e79f186496d1fcf0ce8803d5a0447e159394c7ef97ad082af7",
+    "reference/original/app.js": "7c46a1b6f6531ecd521d8693be47f14cf16e2c33a4fff33d7b17e9c1cd1b5c5e",
+    "reference/original/components.js": "7081f02ef0a6a64149a78ccd448854c04f1767c2e2d7fd289b53c8e29923675c",
+    "reference/original/inventory.js": "37b5c47c766bc08b65dedee50b17aa9c60301567d67f4a8bb93d38e8c0e5d1c3",
+    "reference/original/style.css": "efc8f71af95e9e3276b49432f7dbdb9d5378b2f16cdda87798c83d45e0a31051",
+    "reference/royal-baltic-warehouse-ui.html": "1bc47cc3b88693c4ad6be2783dd8d98569f01f3ea03d29d552db37cb0ee7281a",
+    "src/domain/inventory.js": "37b5c47c766bc08b65dedee50b17aa9c60301567d67f4a8bb93d38e8c0e5d1c3",
+    "src/styles/warehouse.css": "efc8f71af95e9e3276b49432f7dbdb9d5378b2f16cdda87798c83d45e0a31051",
+    "data/demo-state.json": "41e0b67d304d8d3892340407e63d1150a960e5af35c66e9fea74935b4850ba4e"
+  }
+}
