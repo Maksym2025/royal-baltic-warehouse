@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.tsbuildinfo
+test-results/
+.env
+.env.*
+!.env.example
+*.local
+warehouse-demo-backup*.json
+warehouse-demo-before-import*.json
